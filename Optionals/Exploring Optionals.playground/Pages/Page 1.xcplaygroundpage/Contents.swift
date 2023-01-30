@@ -16,8 +16,8 @@
  What is the result?
  */
 // Type the code below this line
-
-
+var myName: String
+print(myName)
 /*:
  
  The debug area appeared at the bottom of your playground.
