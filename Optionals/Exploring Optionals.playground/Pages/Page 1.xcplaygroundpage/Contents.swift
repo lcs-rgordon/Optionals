@@ -7,28 +7,28 @@
  What is the difference between an optional String and a regular String?
  
  ### Experiment #1
- Try typing the following code below on lines 19 and 20:
+ Read the code shown in the screenshot below.
  
  ![declare-no-value](declare-no-value.png)
  
- Run the playground.
+ Type that same code beginning on line 18.
  
- What is the result?
  */
 // Type the code below this line
-var myName: String
-print(myName)
+
 /*:
  
- The debug area appeared at the bottom of your playground.
+ Now, run the playground using the *Command-Shift-Return* keyboard shortcut.
+ 
+ Then open the debug area using the *Command-Shift-Y* keyboard shortcut.
  
  Did you see output similar to the following?
- 
- What do you think the error means?
- 
+  
  ![variable-not-initialized](error.png)
  
- ### Experiment #2
+ NOTE: You may need to scroll up a bit in the debug area.
+ 
+ What do you think the error means?
  
  Now comment out the code above from experiment #1.
  
@@ -38,7 +38,6 @@ print(myName)
  
  */
 // Type the second code example below...
-
 
 /*:
  
